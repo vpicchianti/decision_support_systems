@@ -13,4 +13,4 @@ All data processing operations will be performed without using the pandas librar
 The resulting datawarehouse will serve as the foundation for the subsequent phases of the project, facilitating in-depth analysis and insights.
 
 
-![Data warehouse schema](schema.png)
+![Data warehouse schema](images/schema.png)
