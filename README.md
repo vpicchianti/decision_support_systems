@@ -1,3 +1,4 @@
-# decision_support_systems
-this repository hosts our Decision Support Systems (Laboratory) project 
+# Project of Decision Support Systems - Laboratory of Data Science
+This repository hosts our Decision Support Systems project. 
+Here the detailed project descrition.
 [Project Assignment PDF](project_description.pdf)
